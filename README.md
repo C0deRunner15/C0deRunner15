@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eric Rivera</h1>
 <h3 align="center">A passionate web developer from Alexandria, Virginia</h3>
 
-- 🌱 I’m currently learning: **backend tools**
+- 🌱 I’m currently learning: **Backend tools**
 
 - 📫 How to reach me: **rivera.eric.927@gmail.com**
 
-- ⚡ Fun fact: **I can talk a lot about the New York Giants**
+- ⚡ Fun fact: **I can talk for hours about the New York Giants if you let me**
 
 
 <h3 align="left">Languages and Tools:</h3>
